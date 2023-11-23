@@ -23,3 +23,9 @@ To utilize this project, follow these steps:
 
    ```bash
    pip install -r requirements.txt
+
+2. Run demo.py to train the Reuters model and analyze a news article:
+
+   ```bash
+   python demo.py   
+The script will output the predicted category for the given news article.
